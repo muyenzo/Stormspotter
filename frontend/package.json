@@ -23,7 +23,7 @@
     "quasar": "^1.13.2",
     "vue-codemirror": "^4.0.6",
     "vue-cytoscape": "^1.0.8",
-    "vue-loader": "^15.9.3",
+    "vue-loader": "^16.0.0",
     "vue-neo4j": "^0.4.5",
     "bl": "^4.0.3"
   },
