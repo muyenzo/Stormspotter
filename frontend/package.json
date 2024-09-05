@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@quasar/extras": "^1.9.5",
-    "axios": "^0.21.1",
+    "axios": "^1.6.8",
     "core-js": "^3.6.5",
     "cytoscape-cola": "^2.4.0",
     "cytoscape-cose-bilkent": "^4.1.0",
@@ -21,9 +21,9 @@
     "flush-promises": "^1.0.2",
     "lodash": "^4.17.20",
     "quasar": "^1.13.2",
-    "vue-codemirror": "^4.0.6",
+    "vue-codemirror": "^5.0.0",
     "vue-cytoscape": "^1.0.8",
-    "vue-loader": "^15.9.3",
+    "vue-loader": "^17.1.0",
     "vue-neo4j": "^0.4.5",
     "bl": "^4.0.3"
   },
