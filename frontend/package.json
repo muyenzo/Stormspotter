@@ -21,7 +21,7 @@
     "flush-promises": "^1.0.2",
     "lodash": "^4.17.20",
     "quasar": "^1.13.2",
-    "vue-codemirror": "^4.0.6",
+    "vue-codemirror": "^5.0.0",
     "vue-cytoscape": "^1.0.8",
     "vue-loader": "^15.9.3",
     "vue-neo4j": "^0.4.5",
